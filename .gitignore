@@ -1,0 +1,35 @@
+# Python virtual Environments
+.venv/
+venv/
+env/
+
+# Python Cache and Compiled Files
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# Environment Variables and Local Secrets
+.env
+.env.*
+!.env.example
+
+# Generated Datasets
+data/generated/*
+
+# Allowed Documentation in the generated-data Directory
+!data/generated/.gitkeep
+
+# Generated model Artifacts
+artifacts/*
+!artifacts/.gitkeep
+
+# Generated Reports
+reports/figures/*
+reports/evaluation/*
+
+# IDE and operating-system Files
+.DS_Store
+.vscode/
