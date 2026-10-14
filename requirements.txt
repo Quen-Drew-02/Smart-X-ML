@@ -2,3 +2,6 @@
 jupyterlab
 notebook
 ipykernel
+skl2onnx
+onnx
+onnxruntime
