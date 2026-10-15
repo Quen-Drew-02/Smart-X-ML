@@ -1,0 +1,67 @@
+This Text File Outlines all Extrernal sources used for the development of this ML Model:
+
+/*
+   Title: ML-For-Beginners
+   Author: Microsoft
+   Date: 1 Month Ago
+   Date accessed: 13/10/2026
+   Availability: https://github.com/microsoft/ML-For-Beginners.git
+*/
+
+/*
+   Title: You can't deploy ML model without these
+   Author: Daniel
+   Date: 2 Years Ago
+   Date accessed: 13/10/2026
+   Availability: https://youtu.be/oYlNP21g2Y0?si=p5tLOx2Z-f3U1BM2
+*/
+
+/*
+   Title: Machine Learning for Everybody – Full Course
+   Author: freeCodeCamp.org and Kylie Ying
+   Date: 4 Years Ago
+   Date accessed: 13/10/2026
+   Availability: https://youtu.be/i_LwzRVP7bg?si=vkhTOZbMf4qJUzEr
+*/
+
+
+/*
+   Title: Exploratory Data Analysis with Pandas Python
+   Author: Rob Mulla
+   Date: 4 Years Ago
+   Date accessed: 13/10/2026
+   Availability: https://youtu.be/xi0vhXFPegw?si=pqWxsZfiAS2FMDKE
+*/
+
+
+/*
+   Title: Python Machine Learning Tutorial (Data Science)
+   Author: Programming with Mosh
+   Date: 6 Years Ago
+   Date accessed: 13/10/2026
+   Availability: https://youtu.be/7eh4d6sabA0?si=hk-9cZZNuiIG_aZd
+*/
+
+/*
+   Title: What is Random Forest?
+   Author: IBM Technology
+   Date: 4 Years Ago
+   Date accessed: 14/10/2026
+   Availability: https://youtu.be/gkXX4h3qYm4?si=YuJ55V1o-3PAz8vL
+*/
+
+/*
+   Title: Random Forest Algorithm Explained with Python and scikit-learn
+   Author: Ryan & Matt Data Science
+   Date: 3 Years Ago
+   Date accessed: 14/10/2026
+   Availability: https://youtu.be/_QuGM_FW9eo?si=kRQtnaFAf_WbEHv8
+*/
+
+/*
+   Title: Random Forest Classification with Python and Scikit-Learn.ipynb
+   Author: pb111
+   Date: 7 Years Ago
+   Date accessed: 14/10/2026
+   Availability: https://gist.github.com/pb111/88545fa33780928694388779af23bf58
+*/
